@@ -32,10 +32,14 @@ form{
 
 h1{
     
-    background-color: rgb(107, 107, 139);
+    background-color: rgb(36, 36, 168);
    
 }
 
 input{
     width: 40px;
+}
+
+h1{
+    color:rgb(48, 219, 85)
 }
